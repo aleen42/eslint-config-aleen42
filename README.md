@@ -9,8 +9,8 @@ To use this config, add this to your `package.json`
 ```json
 {
   "devDependencies"  : {
-    "eslint"                 : "4.16.0",
-    "eslint-config-aleen42" : "1.0.0"
+    "eslint"                : "4.16.0",
+    "eslint-config-aleen42" : "1.0.1"
   }
 }
 ```
