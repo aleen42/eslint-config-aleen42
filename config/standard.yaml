@@ -43,3 +43,5 @@ rules:
     space-infix-ops                 : [error]
     spaced-comment                  : [error]
     eol-last                        : [error]
+
+    eqeqeq                          : warn
