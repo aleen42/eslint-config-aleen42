@@ -1,23 +1,25 @@
 {
-  "name"             : "eslint-config-coremail",
-  "description"      : "Javascript Standard Style - ESLint Shareable Config for coremail.cn",
-  "version"          : "0.2.0",
-  "author"           : {
+  "name"             : "eslint-config-aleen42",
+  "description"      : "Javascript Standard Style - ESLint Shareable Config for aleen42",
+  "version"          : "1.0.0",
+  "author"           : [{
     "name"  : "William Leung",
     "email" : "williamleung2006@gmail.com"
-  },
+  }, {
+    "name"  : "Aleen",
+    "email" : "aleen42@vip.qq.com"
+  }],
 
   "keywords"         : [
     "code linter",
     "code sytle",
     "code checker",
-    "eslint",
-    "coremail"
+    "eslint"
   ],
 
   "repository"       : {
     "type" : "git",
-    "url"  : "https://github.com/Mailtech/eslint-config-coremail.git"
+    "url"  : "https://github.com/aleen42/eslint-config-aleen42.git"
   },
 
   "license"          : "MIT",
