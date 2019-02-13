@@ -1,6 +1,6 @@
 
-
-extends: [standard]
+---
+extends: [standard,"plugin:react/recommended","plugin:vue/essential"]
 plugins: [html]
 
 
